@@ -1,9 +1,11 @@
 
-<h1 align="center">Hi, I'm Ruchira Ray </h1>
+<h1 align="center">Hey, I'm Ruchira </h1>
 
 #### About Me
 
-I'm a third year Computer Science undergraduate and a ML research enthusiast. Currently, I have been working on supervised image classification. As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification. At NIT Rourkela, I have also worked on recommendation systems. 
+I'm a third year undergraduate studying Computer Science. I am an ML research enthusiast. My pronouns are: She/Her.
+<p></P>
+Currently, I have been working on supervised image classification. As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification. At NIT Rourkela, I have also worked on recommendation systems. 
 
 - 🔭 I’m also working on implementing ML papers such as [UNET with TGS](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
 
