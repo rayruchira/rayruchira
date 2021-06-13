@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on [implementing ML papers](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
 
-- ⚠️ I’m looking for help with building an **inclusive period tracker** (please reach out if interested)
+- ⚠️ I’m looking for help in building an **inclusive period tracker** (please reach out if interested)
 
 
 
