@@ -1,7 +1,23 @@
 
 <h1 align="center">Hi, I'm Ruchira Ray </h1>
-<p align="center">Senior year Computer Science undergraduate and Machine Learning research enthusiast.</p>
+
+#### About Me
+
+I'm a third year Computer Science undergraduate and a ML research enthusiast. Currently, I have been working on supervised image classification. As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification. At NIT Rourkela, I have also worked on recommendation systems. 
+
+- 🔭 I’m also working on [implementing ML papers](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
+
+- ⚠️ I’m looking for help in building an **inclusive period tracker** (please reach out if interested)
+#### Research Interests
+- Computer Vision
+- Generative Modeling
+- Human-AI Collaboration
+- Computational Social Choice
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
+
+
+#### Reach out
 
 <a href="https://twitter.com/ruchira_ray">
   <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,15 +32,10 @@
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
-<br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
 
 
-- 🔭 I’m currently working on [implementing ML papers](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
 
-- ⚠️ I’m looking for help in building an **inclusive period tracker** (please reach out if interested)
+
 
 
 
