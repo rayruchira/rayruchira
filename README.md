@@ -5,7 +5,7 @@
 
 I'm a third year Computer Science undergraduate and a ML research enthusiast. Currently, I have been working on supervised image classification. As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification. At NIT Rourkela, I have also worked on recommendation systems. 
 
-- 🔭 I’m also working on [implementing ML papers](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
+- 🔭 I’m also working on implementing ML papers such as [UNET with TGS](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
 
 - ⚠️ I’m looking for help in building an **inclusive period tracker** (please reach out if interested)
 #### Research Interests
