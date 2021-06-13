@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Ruchira Ray 🏳️‍🌈 </h1>
+<h1 align="center">Hi, I'm Ruchira Ray </h1>
 <p align="center">Senior year Computer Science undergraduate and Machine Learning research enthusiast.</p>
 <br>
 
@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
 
 
-- 🔭 I’m currently working on [UNET Salt Segmentation in PyTorch](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS) and implementing other ML papers
+- 🔭 I’m currently working on [implementing ML papers](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS)
 
 - ⚠️ I’m looking for help with building an **inclusive period tracker** (please reach out if interested)
 
