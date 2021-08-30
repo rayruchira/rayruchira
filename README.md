@@ -10,7 +10,7 @@ I'm a third year undergraduate studying Computer Science. I am an ML research en
 
 - As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification ([poster](https://drive.google.com/file/d/13x_OoOvHbLmSTJ_slZlf4EDBT7_KH9zy/view?usp=sharing)). At NIT Rourkela, I have also worked on recommendation systems ([poster](https://www.m2lschool.org/posters#h.wt8jaw6u2oqg)). 
 
-- I’m also working on implementing ML papers such as [UNET with TGS](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS) or [Style Transfer](https://github.com/rayruchira/Neural-Style-Transfer)
+<!-- - I’m also working on implementing ML papers such as [UNET with TGS](https://github.com/rayruchira/UNET-segmentation-pytorch-TGS) or [Style Transfer](https://github.com/rayruchira/Neural-Style-Transfer) -->
 
 <!-- - 👩‍💻 I’m looking for help in building an **inclusive period tracker** (please reach out if interested) -->
 
