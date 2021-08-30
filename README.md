@@ -3,7 +3,7 @@
 
 #### About Me
 
-I'm a third year undergraduate studying Computer Science. I am an ML research enthusiast. My pronouns are: She/Her 🌈
+I'm a fourth year undergrad studying Computer Science. My pronouns are: She/Her 🌈
 <p></p>
 
 - Currently, I have been working on supervised Mathematical Expression recognition and classification.
