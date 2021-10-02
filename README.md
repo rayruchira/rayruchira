@@ -13,9 +13,9 @@ As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker v
 <!-- - 👩‍💻 I’m looking for help in building an **inclusive period tracker** (please reach out if interested) -->
 
 #### Research Interests
-- Computer Vision
-- Generative Modeling
+- Visual perception
 - Human-AI Collaboration
+- Audio/speech processing
 - Computational Social Choice
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
