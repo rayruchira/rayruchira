@@ -18,22 +18,23 @@ As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker v
 - Audio/speech processing
 <!-- - Computational Social Choice -->
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
 
 
 #### Reach out
 
 <a href="https://twitter.com/ruchira_ray">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ruchira's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/ray_ndeer/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ruchira's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ruchira-ray-ba012069/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ruchira's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:ruchiraray99@gmail.com">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  <img align="left" alt="Ruchira's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 
 
