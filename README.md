@@ -16,7 +16,7 @@ As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker v
 - Visual perception
 - Human-AI Collaboration
 - Audio/speech processing
-- Computational Social Choice
+<!-- - Computational Social Choice -->
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayruchira&show_icons=true&theme=tokyonight&locale=en" alt="rayruchira" /></p>
 
