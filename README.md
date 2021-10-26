@@ -17,7 +17,7 @@ As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker v
 - Visual perception
 - Audio/speech processing
 - AI for social good
-- probalistic and variational methods
+- Probalistic and variational methods
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
