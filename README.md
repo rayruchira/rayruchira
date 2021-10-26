@@ -13,10 +13,11 @@ As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker v
 <!-- - 👩‍💻 I’m looking for help in building an **inclusive period tracker** (please reach out if interested) -->
 
 #### Research Interests
-- Visual perception
 - Human-AI Collaboration
+- Visual perception
 - Audio/speech processing
 - AI for social good
+- probalistic and variational methods
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
