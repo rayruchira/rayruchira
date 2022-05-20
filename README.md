@@ -1,9 +1,9 @@
 
-<h1 align="center">Hey, I'm Ruchira </h1>
+<h1 align="center">Hey, I'm Ruchira (She/Her)</h1>
 
 #### About Me
 
-I'm a final year undergrad studying Computer Science. My pronouns are: She/Her 🌈
+I'm a final year undergrad studying Computer Science.
 <p></p>
 
 As a Samsung PRISM Researcher, I have worked on audio antispoofing and speaker verification ([poster](https://drive.google.com/file/d/13x_OoOvHbLmSTJ_slZlf4EDBT7_KH9zy/view?usp=sharing)). At NIT Rourkela, I have also worked on recommendation systems ([poster](https://www.m2lschool.org/posters#h.wt8jaw6u2oqg)). 
