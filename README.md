@@ -6,7 +6,7 @@
 I'm an incoming MSCS student at the University of Texas at Austin.
 <p></p>
 
-I'm currently working on part-based generation of multi-category objects with [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/) at CVIT IIIT-H.
+I'm currently working on part-based generation of multi-category objects under [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/) at CVIT IIIT-H.
 
 <!-- - 👩‍💻 I’m looking for help in building an **inclusive period tracker** (please reach out if interested) -->
 
