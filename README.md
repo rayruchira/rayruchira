@@ -14,6 +14,8 @@ I'm currently working on part-based generation of multi-category objects with [P
 - Human-AI Collaboration 
 - Visual perception
 - Audio/speech processing
+- Multimodal Learning
+
 <!-- 
 - AI for social good
 - Probalistic and variational methods 
