@@ -14,8 +14,13 @@ I'm currently working on part-based generation of multi-category objects with [P
 - Human-AI Collaboration 
 - Visual perception
 - Audio/speech processing
-<?-- - AI for social good
-- Probalistic and variational methods -->
+<!-- 
+- AI for social good
+- Probalistic and variational methods 
+
+-->
+
+
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
