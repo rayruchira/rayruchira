@@ -3,7 +3,7 @@
 
 #### About Me
 
-I'm an incoming MSCS student at the University of Texas at Austin.
+I'm a first year MS in Computer Science student at the University of Texas at Austin.
 <p></p>
 
 I'm currently working on part-based generation of multi-category objects under [Prof. Ravi Kiran Sarvadevabhatla](https://ravika.github.io/) at CVIT IIIT-H.
