@@ -23,11 +23,14 @@ I'm currently working on part-based generation of multi-category objects under [
 -->
 
 
-<br>
+<!-- <br> -->
 
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayruchira&count_private=true)](https://github.com/rayruchira/github-readme-stats)
 
-
+ -->
+ 
+ 
 #### Reach out
 
 <a href="https://twitter.com/ruchira_ray">
