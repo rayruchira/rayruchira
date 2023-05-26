@@ -10,8 +10,6 @@ I'm a first year MS in Computer Science student at the University of Texas at Au
 
 #### Research Interests
 - Human-AI Collaboration 
-- Visual perception
-- Audio/speech processing
 - Multimodal Learning
 
 <!-- 
