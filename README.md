@@ -9,7 +9,7 @@ I am an Applied AI researcher at rAtream Recycling Inc. I recently graduated MS 
 
 #### Research Interests
 - Robotic Perception
-- Human-AI Collaboration 
+- Human-Machine Collaboration 
 
 
 <!-- <br> -->
