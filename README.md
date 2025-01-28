@@ -3,7 +3,7 @@
 
 #### About Me
 
-I am an Applied AI researcher at rStream Recycling Inc. I recently graduated MS in Computer Science at the University of Texas at Austin, where I worked on making vision models more robust and analysing the motivation behind what humans want to automate.
+I am an Applied AI Research Engineer at rStream Recycling Inc. I recently graduated MS in Computer Science at the University of Texas at Austin, where I worked on making vision models more robust and analysing the motivation behind what humans want to automate.
 <p></p>
 
 
